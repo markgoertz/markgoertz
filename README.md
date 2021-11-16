@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @markgoertz
 - 👀 I’m interested in any language I am able to learn.
 - 🌱 I’m currently learning Node.JS!
-- 💞️ I’m looking to collaborate with any company that can offer me a coffee ;) and a great time within the company to learn new topics!
+- 💞️ I’m looking to collaborate with any company where I can have a great time within the company to learn new topics and give input for the company.
+- (psst and also great coffee ;))
+
 - 📫 How to reach me: 
         
 
