@@ -3,6 +3,7 @@
 - 🌱 Currently learning ASP.NET Core web API with .NET 6 
 - 💞️ I like coffee ;)
 
+![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=markgoertz&show_icons=true&theme=radical)
 
         
 <!---
