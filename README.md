@@ -1,9 +1,9 @@
+# Hi👋🏼, I am @markgoertz!
+
 - 👋 Hi, I’m @markgoertz
 - 👀 I’m interested in any language I am able to learn.
 - 🌱 Currently learning ASP.NET Core web API with .NET 6 
 - 💞️ I like coffee ;)
-
-![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=markgoertz&show_icons=true&theme=radical)
 
 <h3 align="left">Connect with me by LinkedIn!:</h3>
 <p align="left">
